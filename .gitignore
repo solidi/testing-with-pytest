@@ -1,6 +1,8 @@
 env/
 bin/
 lib/
+dist/
+pytest_nice.egg-info/
 pyvenv.cfg
 .pytest_cache
 __pycache__
